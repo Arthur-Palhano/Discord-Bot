@@ -1,0 +1,14 @@
+{
+  "name": "macaco",
+  "version": "1.0.0",
+  "description": "Macaquinho",
+  "main": "botds.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo",
+  "license": "ISC",
+  "dependencies": {
+    "algorithmia": "^0.3.10"
+  }
+}
